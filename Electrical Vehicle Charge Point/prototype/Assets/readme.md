@@ -1,0 +1,1 @@
+All Assests such as images will be placed within the Assets folder.

@@ -1,0 +1,1 @@
+This is the folder where all the CSS I've written will be and can be called by the main HTML 
